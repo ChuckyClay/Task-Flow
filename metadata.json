@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern, intuitive To-Do and task management app with Material 3 design, categories, priorities, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

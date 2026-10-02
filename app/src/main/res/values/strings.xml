@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TaskFlow</string>
+    <string name="tasks_remaining_today">%1$d tasks remaining today</string>
+    <string name="all_tasks_completed">All caught up! Great job!</string>
+    <string name="search_tasks_hint">Search tasks, categories…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_completed">Completed</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="category_work">Work</string>
+    <string name="category_personal">Personal</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_health">Health</string>
+    <string name="category_education">Learning</string>
+    <string name="category_finance">Finance</string>
+    <string name="add_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="task_title_placeholder">What needs to be done?</string>
+    <string name="task_desc_placeholder">Add description or notes (optional)</string>
+    <string name="save_task">Save Task</string>
+    <string name="delete_task">Delete</string>
+    <string name="mark_completed">Mark as completed</string>
+    <string name="mark_active">Mark as active</string>
+    <string name="confirm_delete_title">Delete Task</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this task?</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_due_date">Due Date</string>
+    <string name="select_due_time">Due Time</string>
+</resources>
